@@ -53,6 +53,17 @@ export default defineConfig({
     </Routes>
   </BrowserRouter>
   ```
+
+
+### ProtectedRoute
+
+```tsx
+const ProtectedRoute = () => {
+  
+}
+```
+
+
 ### TAILWIND UI
 
 https://tailwindcss.com/plus/ui-blocks/application-ui/forms/sign-in-forms
